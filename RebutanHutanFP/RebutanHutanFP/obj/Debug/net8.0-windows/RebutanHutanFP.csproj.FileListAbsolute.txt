@@ -1,0 +1,80 @@
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.exe
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.deps.json
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.runtimeconfig.json
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.dll
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.pdb
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.Properties.Resources.resources
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.GenerateResource.cache
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfoInputs.cache
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfo.cs
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.CoreCompileInputs.cache
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.dll
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\refint\RebutanHutanFP.dll
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.pdb
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.genruntimeconfig.cache
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\ref\RebutanHutanFP.dll
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.LionForm.resources
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.TigerForm.resources
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.HomePage.resources
+C:\SEMS3\pbo\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.StartPage.resources
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.exe
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.deps.json
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.runtimeconfig.json
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.dll
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.pdb
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.HomePage.resources
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.LionForm.resources
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.Properties.Resources.resources
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.StartPage.resources
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.TigerForm.resources
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.GenerateResource.cache
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfoInputs.cache
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfo.cs
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.CoreCompileInputs.cache
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.dll
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\refint\RebutanHutanFP.dll
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.pdb
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.genruntimeconfig.cache
+D:\Putrianii\Semester 3 (2024)\Pemrograman Berbasis Objek - B\FP-PBO-B\FINAL-PROJECT\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\ref\RebutanHutanFP.dll
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.exe
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.deps.json
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.runtimeconfig.json
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.dll
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.pdb
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.HomePage.resources
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.LionForm.resources
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.Properties.Resources.resources
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.StartPage.resources
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.TigerForm.resources
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.GenerateResource.cache
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfoInputs.cache
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfo.cs
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.CoreCompileInputs.cache
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.dll
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\refint\RebutanHutanFP.dll
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.pdb
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.genruntimeconfig.cache
+C:\Users\Tarisha Falah\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\ref\RebutanHutanFP.dll
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.exe
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.deps.json
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.runtimeconfig.json
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.dll
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\bin\Debug\net8.0-windows\RebutanHutanFP.pdb
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.HomePage.resources
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.LionForm.resources
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.Properties.Resources.resources
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.StartPage.resources
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.TigerForm.resources
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.GenerateResource.cache
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfoInputs.cache
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.AssemblyInfo.cs
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.csproj.CoreCompileInputs.cache
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.dll
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\refint\RebutanHutanFP.dll
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.pdb
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\RebutanHutanFP.genruntimeconfig.cache
+C:\Users\putri\Downloads\fix-fp-pbo\FPPBOB_T_RebutanHutan\RebutanHutanFP\RebutanHutanFP\obj\Debug\net8.0-windows\ref\RebutanHutanFP.dll

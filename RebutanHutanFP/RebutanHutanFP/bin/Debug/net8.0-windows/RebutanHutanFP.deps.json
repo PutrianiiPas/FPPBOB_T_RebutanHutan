@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RebutanHutanFP/1.0.0": {
+        "runtime": {
+          "RebutanHutanFP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RebutanHutanFP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
